@@ -1,2 +1,9 @@
-[server]
-serverip.here
+[science_prod]
+sci-prod-1.ip
+sci-prod-2.ip
+
+[science_dev]
+sci-dev-1.ip
+
+[lcm_prod]
+lcm-prod-1.ip
